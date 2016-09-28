@@ -1,3 +1,4 @@
+#!/usr/bin/python
 astr = 'Bob'
 try:
     print 'hello'
