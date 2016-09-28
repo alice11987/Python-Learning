@@ -21,4 +21,4 @@ def guess_num(min, max, times):
     return False
 
 if __name__ == "__main__":
-    guess_num(1, 100, 5)
+    guess_num(1, 10, 5)
