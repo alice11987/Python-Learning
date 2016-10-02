@@ -8,3 +8,5 @@ def greet(lang):
         
 if __name__ == '__main__':
     greet('cn')
+
+    

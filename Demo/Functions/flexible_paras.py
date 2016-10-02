@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+#flexible parameter＝可变参数，在第5行的那里是重点，max 和min。
 def max_min_ex(*args):
     print(args)
     return max(args), min(args)
